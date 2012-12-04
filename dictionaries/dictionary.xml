@@ -1,0 +1,1912 @@
+<!-- ************************************************************* -->
+<!-- *************************** PAIRS *************************** -->
+
+<!-- Wordnet: yes (WordNet relation not available) -->
+
+<item>
+  <prem> good </prem>
+  <conc> great </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> athiest </prem>
+  <conc> agnostic </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (see Coef for '>'; bizarre) -->
+
+<item>
+  <prem> good </prem>
+  <conc> terrible </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (see Coef for '=') -->
+
+<item>
+  <prem> comedy </prem>
+  <conc> comedy </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using *-Principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> black </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes (from test-lexical-relations.py)-->
+
+<item>
+  <prem> right </prem>
+  <conc> wrong </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (see Coef for '>') -->
+
+<item>
+  <prem> issue </prem>
+  <conc> conflict </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using *-Principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> of_interest </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef for '|') -->
+
+<item>
+  <prem> good </prem>
+  <conc> terrific </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes (Wordnet relation not available)  -->
+
+<item>
+  <prem> extraordinary </prem>
+  <conc> unusual </conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using *-Principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> very </conc>
+  <pcat> ((N/N)/(N/N)) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef for '|')  -->
+
+<item>
+  <prem> comfortable </prem>
+  <conc> ok </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes (WordNet relation not available) -->
+
+<item>
+  <prem> good </prem>
+  <conc> great </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; p = 1; (see ER for '>')  -->
+
+<item>
+  <prem> fun </prem>
+  <conc> awesome </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (see Coef for '>'; bizarre)  -->
+
+<item>
+  <prem> correct </prem>
+  <conc> untrue </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using *-Principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> absolutely </conc>
+  <pcat> ((N/N)/(N/N)) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes -->
+
+<item>
+  <prem> hard </prem>
+  <conc> difficult </conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using *-Principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> extremely </conc>
+  <pcat> ((N/N)/(N/N)) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see ER for '>')  -->
+
+<item>
+  <prem> happy </prem>
+  <conc> delighted </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '>';  bizarre)  -->
+
+<item>
+  <prem> confident </prem>
+  <conc> skeptical </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no; (see Coef for '|')  -->
+
+<item>
+  <prem> commercial </prem>
+  <conc> private </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '>')  -->
+
+<item>
+  <prem> good </prem>
+  <conc> positive </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '=')  -->
+
+<item>
+  <prem> fair </prem>
+  <conc> fair </conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using *-Principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> about </conc>
+  <pcat> ((N/N)/(N/N)) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using *-Principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> as </conc>
+  <pcat> ((N/N)/(N/N)) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '>')  -->
+
+<item>
+  <prem> great </prem>
+  <conc> wonderful </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes (WordNet relation not available) -->
+
+<item>
+  <prem> giant </prem>
+  <conc> big </conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using MacCartney 09) -->
+
+<item>
+  <prem>a</prem>
+  <conc>a</conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj n=1> <:<, >:>, ^:_, |:#, _:_, =:=, #:#  </proj>
+  <proj n=2> <:<, >:>, ^:_, |:#, _:_, =:=, #:#  </proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '>')  -->
+
+<item>
+  <prem> smart </prem>
+  <conc> tough </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> move </prem>
+  <conc> call </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '>')  -->
+
+<item>
+  <prem> wise </prem>
+  <conc> appropriate </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using MacCartney 09) -->
+
+<item>
+  <prem>a</prem>
+  <conc>an</conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj n=1> <:<, >:>, ^:_, |:#, _:_, =:=, #:#  </proj>
+  <proj n=2> <:<, >:>, ^:_, |:#, _:_, =:=, #:#  </proj>
+</item>
+
+<!-- Wordnet: -; IMBD; YES (see Coef for '>') -->
+
+<item>
+  <prem> lock </prem>
+  <conc> favorite </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using *-Principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> overwhelming </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '>')  -->
+
+<item>
+  <prem> successful </prem>
+  <conc> tremendous </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '>')  -->
+
+<item>
+  <prem> happy </prem>
+  <conc> great </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no; (see Coef for '<')  -->
+
+<item>
+  <prem> fair </prem>
+  <conc> legitimate </conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '=')  -->
+
+<item>
+  <prem> weak </prem>
+  <conc> weak </conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '='; overrode because so similar)  -->
+
+<item>
+  <prem> okay </prem>
+  <conc> fine </conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no; (see Coef for '|')  -->
+
+<item>
+  <prem> nice </prem>
+  <conc> beautiful </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '='; overrode because so similar)  -->
+
+<item>
+  <prem> comfortable </prem>
+  <conc> happy </conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no; (see Coef for '|')  -->
+
+<item>
+  <prem> good </prem>
+  <conc> wonderful </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no; (see Coef for '|')  -->
+
+<item>
+  <prem> good </prem>
+  <conc> excellent </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> barrette </prem>
+  <conc> ponytail </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using *-Principle) -->
+
+<item>
+  <prem> *_heir </prem>
+  <conc> of_heirs </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using *-Principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> number </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '>')  -->
+
+<item>
+  <prem> encouraged </prem>
+  <conc> optimistic </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> are </prem>
+  <conc> was </conc>
+  <pcat> VP </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> italian </prem>
+  <conc> vinaigrette </conc>
+  <pcat> (N/N) </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> granola </prem>
+  <conc> grapefruit </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no; (see Coef for '|')  -->
+
+<item>
+  <prem> like </prem>
+  <conc> loathe </conc>
+  <pcat> VP </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes; (see Coef for '=')  -->
+
+<item>
+  <prem> need </prem>
+  <conc> want </conc>
+  <pcat> VP </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef for '<') -->
+
+<item>
+  <prem> medication </prem>
+  <conc> vitamins </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef for '|') -->
+
+<item>
+  <prem> cute </prem>
+  <conc> stunning </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using MacCartney 09) -->
+
+<item>
+  <prem> * </prem>
+  <conc> not </conc>
+  <pcat> ((N/N)/(N/N)) </pcat>
+  <lex> ^ </lex>
+  <proj n=1> <:<, >:>, ^:^, |:|, _:_, =:=, #:#  </proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> mailed </prem>
+  <conc> proofread </conc>
+  <pcat> (N/N) </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using '='-principle) -->
+
+<item>
+  <prem> does </prem>
+  <conc> does </conc>
+  <pcat> (VP/VP) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef for '|') -->
+
+<item>
+  <prem> like </prem>
+  <conc> mind </conc>
+  <pcat> VP </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<item>
+  <prem> * </prem>
+  <conc> not </conc>
+  <pcat> (VP/VP) </pcat>
+  <lex> ^ </lex>
+  <proj n=1> <:<, >:>, ^:^, |:|, _:_, =:=, #:#  </proj>
+</item>
+
+<item>
+  <prem> knitted </prem>
+  <conc> crocheting </conc>
+  <pcat> VP </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '=') -->
+
+<item>
+  <prem> grade </prem>
+  <conc> grde </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> third </prem>
+  <conc> fourth </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> juice </prem>
+  <conc> mix </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> apple </prem>
+  <conc> bloody_mary </conc>
+  <pcat> (N/N) </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> you </prem>
+  <conc> cousin </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> my </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten (using '='-principle) -->
+
+<item>
+  <prem> fondue </prem>
+  <conc> fondue </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> chocolate </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (MacCartney 09) -->
+
+<item>
+  <prem> * </prem>
+  <conc> not </conc>
+  <pcat> (N/N) </pcat>
+  <lex> ^ </lex>
+  <proj n=1> <:<, >:>, ^:^, |:|, _:_, =:=, #:#  </proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> ladino </prem>
+  <conc> spanish </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> mailed </prem>
+  <conc> typed </conc>
+  <pcat> VP </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> paste </prem>
+  <conc> cement </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> rubber </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> should </prem>
+  <conc> could </conc>
+  <pcat> VP </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> semester </prem>
+  <conc> year </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> greek </prem>
+  <conc> there </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef for '|') -->
+
+<item>
+  <prem> speak </prem>
+  <conc> lived </conc>
+  <pcat> (N/VP) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> married </prem>
+  <conc> engaged </conc>
+  <pcat> (N/N) </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> papaya </prem>
+  <conc> fruit </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (MacCartney 09) -->
+
+<item>
+  <prem>the</prem>
+  <conc>every</conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj n=1> <:#, >:#, ^:#, |:#, _:#, =:=, #:#  </proj>
+  <proj n=2> <:#, >:#, ^:#, |:#, _:#, =:=, #:#  </proj>
+</item>
+
+<!-- Wordnet: no -->
+
+<item>
+  <prem> good </prem>
+  <conc> bad </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> jewish </prem>
+  <conc> german </conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> artist </prem>
+  <conc> rapper </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> rock </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> moral </prem>
+  <conc> psycho </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> sin </prem>
+  <conc> biology </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> alien </prem>
+  <conc> superhero </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> illegal </prem>
+  <conc> * </conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> televangelist </prem>
+  <conc> character </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> fairytale </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes -->
+
+<item>
+  <prem> religion </prem>
+  <conc> cult </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> continent </prem>
+  <conc> country </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes -->
+
+<item>
+  <prem> color </prem>
+  <conc> shade </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> repbulican </prem>
+  <conc> democrat </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> generic </prem>
+  <conc> ignorant </conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> surfer </prem>
+  <conc> carpenter </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> religion </prem>
+  <conc> style </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> fashion </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> number </prem>
+  <conc> placeholder </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> real </prem>
+  <conc> * </conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes -->
+
+<item>
+  <prem> man </prem>
+  <conc> boy </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: no -->
+
+<item>
+  <prem> old </prem>
+  <conc> young </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> very </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: no -->
+
+<item>
+  <prem> disease </prem>
+  <conc> illness </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> spiritual </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> muslim </prem>
+  <conc> jew </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> mammal </prem>
+  <conc> fish </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> creature </prem>
+  <conc> planet </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> living </prem>
+  <conc> * </conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> child </prem>
+  <conc> brother </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten -->
+
+<item>
+  <prem>only</prem>
+  <conc>a</conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj n=1> <:#, >:#, ^:#, |:#, _:#, =:=, #:#  </proj>
+  <proj n=2> <:#, >:#, ^:#, |:#, _:#, =:=, #:#  </proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> christian </prem>
+  <conc> pagan </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes (no MacCartney relation)-->
+
+<item>
+  <prem> pretty </prem>
+  <conc> beautiful </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> organ </prem>
+  <conc> organ </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> sensory </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> protein </prem>
+  <conc> carbohydrate </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> pagan </prem>
+  <conc> jew </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '=') -->
+
+<item>
+  <prem> sport </prem>
+  <conc> sport </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> of_the_mind </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> pretty </prem>
+  <conc> nice </conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '<') -->
+
+<item>
+  <prem> nationality </prem>
+  <conc> religion </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> fruit </prem>
+  <conc> nut </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> real </prem>
+  <conc> prime </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '=') -->
+
+<item>
+  <prem> mammal </prem>
+  <conc> mammal </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> vegetable </prem>
+  <conc> fruit </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> muscle </prem>
+  <conc> organ </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '='; changed) -->
+
+<item>
+  <prem> sin </prem>
+  <conc> flaw </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> character </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> there </prem>
+  <conc> bacteria </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (using '='-principle) -->
+
+<item>
+  <prem> scaled </prem>
+  <conc> scaled </conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> fully </conc>
+  <pcat> ((N/N)/(N/N)) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> native_american </prem>
+  <conc> jew </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> excellent </prem>
+  <conc> wonderful </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> place </prem>
+  <conc> institution </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: no -->
+
+<item>
+  <prem> berry </prem>
+  <conc> fruit </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> country </prem>
+  <conc> rock </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> planet </prem>
+  <conc> satellite </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '=') -->
+
+<item>
+  <prem> form </prem>
+  <conc> form </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - ('='-principle) -->
+
+<item>
+  <prem> art </prem>
+  <conc> art </conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> acknowledged </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '=') -->
+
+<item>
+  <prem> tree </prem>
+  <conc> tree </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> tropical </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> true </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '=') -->
+
+<item>
+  <prem> opiate </prem>
+  <conc> opiate </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> natural </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (See Coef for '|') -->
+
+<item>
+  <prem> science </prem>
+  <conc> language </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '=') -->
+
+<item>
+  <prem> idea </prem>
+  <conc> idea </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> poorly_executed </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: no -->
+
+<item>
+  <prem> boy </prem>
+  <conc> girl </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '>') -->
+
+<item>
+  <prem> nation </prem>
+  <conc> demoncracy </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (See Coef for '|') -->
+
+<item>
+  <prem> imperialistic </prem>
+  <conc> representative </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> protein </prem>
+  <conc> carbohydrate </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes (no MaCartney relation) -->
+
+<item>
+  <prem> pretty </prem>
+  <conc> beautiful </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> good </prem>
+  <conc> excellent </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default '#') -->
+
+<item>
+  <prem> pretty </prem>
+  <conc> excellent </conc>
+  <pcat> ((N/N)/(N/N)) </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> nice </prem>
+  <conc> wonderful </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes -->
+
+<item>
+  <prem> like </prem>
+  <conc> love </conc>
+  <pcat> VP </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> four </prem>
+  <conc> five </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default #) -->
+
+<item>
+  <prem> flat </prem>
+  <conc> hilly </conc>
+  <pcat> (N/N) </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default #) -->
+
+<item>
+  <prem> pretty </prem>
+  <conc> kind_of </conc>
+  <pcat> ((N/N)/(N/N)) </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default #) -->
+
+<item>
+  <prem> virginia </prem>
+  <conc> parts </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> trip </prem>
+  <conc> break </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default #) -->
+
+<item>
+  <prem> business </prem>
+  <conc> spring </conc>
+  <pcat> (N/N) </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (see Coef for '=') -->
+
+<item>
+  <prem> you </prem>
+  <conc> you </conc>
+  <pcat> N </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> fun </prem>
+  <conc> * </conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> snake </prem>
+  <conc> cottonmouth </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> poisonous </prem>
+  <conc> * </conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes -->
+
+<item>
+  <prem> good </prem>
+  <conc> good </conc>
+  <pcat> (N/N) </pcat>
+  <lex> = </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default #) -->
+
+<item>
+  <prem> buy </prem>
+  <conc> came_with </conc>
+  <pcat> VP </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> work </prem>
+  <conc> retired </conc>
+  <pcat> VP </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> you </prem>
+  <conc> husband </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> my </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (see Coef '>') -->
+
+<item>
+  <prem> you </prem>
+  <conc> girlfriend </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default #) -->
+
+<item>
+  <prem> get </prem>
+  <conc> sent_off </conc>
+  <pcat> VP </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes -->
+
+<item>
+  <prem> house </prem>
+  <conc> business </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: yes -->
+
+<item>
+  <prem> dallas </prem>
+  <conc> san_antonio </conc>
+  <pcat> N </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> seeing </prem>
+  <conc> funny </conc>
+  <pcat> (N/N) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default #) -->
+
+<item>
+  <prem> worth </prem>
+  <conc> really </conc>
+  <pcat> ((N/N)/(N/N)) </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> know </prem>
+  <conc> check </conc>
+  <pcat> VP </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> can </conc>
+  <pcat> (VP/VP) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> trip </prem>
+  <conc> break </conc>
+  <pcat> N </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default #) -->
+
+<item>
+  <prem> business </prem>
+  <conc> spring </conc>
+  <pcat> (N/N) </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> fun </prem>
+  <conc> * </conc>
+  <pcat> (N/N) </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- handwritten using (*-principle) -->
+
+<item>
+  <prem> * </prem>
+  <conc> mental </conc>
+  <pcat> (N/N) </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '|') -->
+
+<item>
+  <prem> seen </prem>
+  <conc> thought </conc>
+  <pcat> VP </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default #) -->
+
+<item>
+  <prem> sing_or_knit </prem>
+  <conc> cross-stitch </conc>
+  <pcat> VP </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (see Coef '<') -->
+
+<item>
+  <prem> cats </prem>
+  <conc> mice_or_other_rodents </conc>
+  <pcat> N </pcat>
+  <lex> < </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; no (default '|') -->
+
+<item>
+  <prem> buy </prem>
+  <conc> gotten </conc>
+  <pcat> (N/VP) </pcat>
+  <lex> | </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (see Coef '>') -->
+
+<item>
+  <prem> house </prem>
+  <conc> mortgage </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; yes (see Coef '>') -->
+
+<item>
+  <prem> company </prem>
+  <conc> division </conc>
+  <pcat> N </pcat>
+  <lex> > </lex>
+  <proj></proj>
+</item>
+
+<!-- Wordnet: -; IMBD; - (default #) -->
+
+<item>
+  <prem> American </prem>
+  <conc> of_General_Motors </conc>
+  <pcat> VP </pcat>
+  <lex> # </lex>
+  <proj></proj>
+</item>
